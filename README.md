@@ -26,7 +26,7 @@ This increased the accuracy on training dataset to 99.98% and 97.24% on test dat
 To take spatial information into consideration and reduce number of parameter I used CNN model. 
 
 - I created my own CNN model from scratch.
-- 
+
 ![image](https://user-images.githubusercontent.com/50731752/144902699-092928b4-0480-42ac-9d07-2c8d74d41a28.png)
 
 On just training for 10 epochs i achieved 98.75% accuracy on training dataset and 98.37% accuracy on testing dataset
