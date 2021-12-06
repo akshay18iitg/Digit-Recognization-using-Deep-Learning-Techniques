@@ -6,12 +6,15 @@ This project uses MNIST dataset. It consists of 60000 28X28 grayscale images of 
 
 First I implemented Fully connected neural networks Architecture. 
 - I implemented neural network with 2 layers. 
+
 ![image](https://user-images.githubusercontent.com/50731752/144898841-d43d1a61-be3f-4389-b364-5f948a302940.png)
 Using this network I achieved 96.83% on training dataset and 95% on testing dataset.
 - Then I implemented neural network with 4 layers.
+
 ![image](https://user-images.githubusercontent.com/50731752/144899725-c4544708-5c62-44f9-b82c-b8a0035c911b.png)
 Using this network I achieved 99.56% on training dataset and 96.04% on testing dataset.
 - To make the model more robust I used batch normalization which increased the accuracy on test dataset.
+
 ![image](https://user-images.githubusercontent.com/50731752/144900488-ed8a31e9-1ea4-46f4-9292-fba787ae38af.png)
 This increased the accuracy on training dataset to 99.98% and 97.24% on test dataset.
 
